@@ -4,7 +4,7 @@ img {
 
 .landing {
   position: relative;
-  background: url('./img/showcase.jpg') no-repeat;
+  background: url("./img/showcase.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -28,7 +28,9 @@ img {
 .card-form {
   opacity: 0.9;
 }
-
+.margin {
+  margin-left: 30px;
+}
 .latest-profiles-img {
   width: 40px;
   height: 40px;
